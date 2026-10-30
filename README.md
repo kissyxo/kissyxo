@@ -4,5 +4,4 @@
 
 <p align="center">
 <sub>
-me and my <a href="https://github.com/harleysawyerHATER">better half</a> /p <br> c+h freely . dnc
-</p>
+${\color{#885B78}\text{me & my better half}}$ <br> ${\color{#E67E85}\text{c+h freely}}$
