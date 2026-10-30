@@ -4,5 +4,5 @@
 
 <p align="center">
 <sub>
-me and my <a href="https://github.com/harleysawyerHATER">better half</a> !! :3 <br> c+h freely . dnc
+me and my <a href="https://github.com/harleysawyerHATER">better half</a> /p <br> c+h freely . dnc
 </p>
