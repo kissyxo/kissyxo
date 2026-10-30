@@ -4,4 +4,4 @@
 
 <p align="center">
 <sub>
-${\color{#885B78}\text{me & my better half}}$ <br> ${\color{#E67E85}\text{c+h freely}}$
+${\color{#885B78}\text{me and my better half}}$ <br> ${\color{#E67E85}\text{c+h freely}}$
